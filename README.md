@@ -8,4 +8,6 @@ Este template foi desenvolvido a partir do seguinte tutorial: bit.ly/2oeu8xr
 
 ## Rodando o Template
 
+npm install
+
 npm start
